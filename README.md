@@ -1,0 +1,4 @@
+- 👋 Olá, sou @Leo-Foletto98
+- 👀 Estou interessado em projetos vinculados a Internet das Coisas, aplicações na área agrícola e projetos diversos com microcontroladores.
+- 🌱 Atualmente estou aprendendo ESP-IDF e realizando o curso de Engenharia de Computação na Universidade Federal de Santa Maria/RS.
+- 📫 Como chegar até mim pelo email leonardo.foletto@neothingsiot.com
